@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dreamy-ecommerce",
+  "private_key_id": "bff77fa46e4f34e141c05873654f0f7afe8b51d5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0+ZkfqLRQaVZk\nFKY/DxzJAr4MDsWmgDe3yH2NFJNxK+0Df+q6F6wstFCKbnU8SaeyfWYRI2QDMNP3\nWFgJIpghKAWLxQHTbbT9nSSA6slIOhl2we3OP744yIQSTGlOLIeTPEYhskuFTVzX\ntaN47K4xU7rRtXnRMBel8+/vSGt68SOe984AdzCu/sIy3je4S9Pz1SaNyft400yM\nO/gbyj1XiA6GgncFwKsWR2vtixL7bQUtKIqBEMRLDqAgFYn07Zci/8l3uI7Bg4SW\njJgTkyz3U/SSsacFvuKm/YV/A+QIJpr+G4q+LGuPP/noFQrSozDNlsXEx5NyKEZ+\napboj+WFAgMBAAECggEAI410PDC1iaWD/AHFfhZfMosIIFDHmfPO3lsz9QMBiyZU\nt88JoxjS8W5T8zoLbHZQzEMPydagx3KwdYNEujiyV7Mn0cM4XluLRpZ4LR5SwA5v\n4bFr4QyLN1cHARxDRMEBOlbJNUX0SaH+1v6fOHqQpu6awSdsYMDYqHixXlnlCX/g\nMiERhnAiLc2nSuD1r6saWntDSD6nd09EXEKg8T+MHyNSOrBopQN3BheTF2NTlcJq\n2vfpvQId8wEJab3CDtH8z1YSRMN/SZ4Z1q9+fSv9XV4BQ6Jwj2cVjpunGcXqkqyR\n06gmPALPYOaQt4DGw1KdArEoE0xz/J/Jf6eR10bJ6QKBgQDygpB3WlNf/cwfOdVa\nveRbaeDuxoAMLgVQAEurMngoahzo0Wec/38QEBTATNymhEUXvZMr0d+XEvWDyFwP\n0B3TkKdDQtWQZttvLA8mi+19ufTDBUXcyOmFxhtK7GaAq7vmyS3kvWWd9kTjRlvz\nUcmkFZtsiWypzXxLzuLh7upSiQKBgQC/CsBgG835YsOiCFroY5G6iCRpQmVqP/ff\nnXOdUb20shibYpBsYuIWbrDUetbHUC202T79e8pIispbdqfMo/VJhyTCaxMuXxU8\nsiPSx1Squ+FzRBC7nHeSQ0oyjREdiXX+NIBUO3ucBJVj1FzH055xdO9eQOCXX0WH\nssZYoe0sHQKBgEqWh9J90Jj8mZSdGBcRwrOvDATEvsuAOBgUDzH3kudzQ7MD/SdX\nmgAZwhgnS9JXalzT7PkUUv3HUgYXUOF4NERHAHr6im8gg6tc1MgZT5FU6Yg2DffL\nP6/qb6iKrzgyGdfw1pG9Aw0jmqqAkHV1GVzDXIt0dRyA3BMA7d1pu15pAoGBAIkg\n7ImQK78w14A9QxPANOCRzKEJmcY0eHY4jL6F6AgGNoeCrmw+Zk730VITgou6z7Qa\npI5LBx4fEbWpbDUGE5FdwlMTjMciVRomPHSVw/5xshiM6P3iCCoixuWWQIzVGK8J\nfHv53nZVC+6Ghrqg+gAykYc0RoIhTsVi2+DPCnE5AoGAWR2qi4h9aA8YbLBXawUP\ndsFP23Gy9y1fW3lQA1w5CYQSvhtNaWcLkBsdJzKPGlTzyTfuG17cYgyC+GNORWpc\nKRpcvb7ndWXeHfB/1AilCnGUyr6CXjkqxL1MlVmPemeoZtgvTiXRdaZSkF12bcsq\nI+ARsK6T5dV/jjqSibdGddk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-a8mjn@dreamy-ecommerce.iam.gserviceaccount.com",
+  "client_id": "110918353586541062801",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-a8mjn%40dreamy-ecommerce.iam.gserviceaccount.com"
+}
